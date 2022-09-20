@@ -12,3 +12,6 @@ Notes
 ------------
 This block has capabilities allowed for admin and students.
 It can only be added on course modules pages.
+
+Github Repository:
+https://github.com/Ankhesa/report_issues
